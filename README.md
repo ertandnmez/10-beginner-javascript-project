@@ -31,3 +31,6 @@ Geliştirelecek,
 özellikleri değiştirebilir olucak,
 Webpack(pure js ),
 sass
+
+### README YAZMAYI ÖĞRENMEM GEREK
+
